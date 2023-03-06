@@ -3,6 +3,7 @@ title: About
 redirect_from:
   - /about/
   - /about.html
+  - /pages/about.html
 ---
 
 ### Welcome to my webpage!
