@@ -1,0 +1,9 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-redirect-from
+
+title: Adrien Corenflos
+logo: me.jpeg
+google_analytics: true
+google_scholar: https://scholar.google.com/citations?user=sJJ7FKgAAAAJ&hl=en&oi=ao
