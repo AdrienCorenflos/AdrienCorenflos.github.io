@@ -7,7 +7,7 @@ permalink: /research/
 
 My research interests lie in the field of computatonal Bayesian inference, with a focus on developing hardware-specialised methods, 
 for example, designing sampling algorithms that explicitly take advantage of the parallelism of modern GPUs rather than implicitly. 
-Other interests lie in embarassing parallelisation of statistical algorithms, statistical efficiency in state-space models, gradient-based inference, and optimal transport.
+Other interests lie in embarassing (or not) parallelisation of statistical algorithms, statistical efficiency in state-space models, gradient-based inference, and optimal transport.
 
 
 #### Publications
