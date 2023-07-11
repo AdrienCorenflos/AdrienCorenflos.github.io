@@ -5,9 +5,9 @@ permalink: /research/
 
 #### Research interests
 
-My research interests lie in the field of computatonal Bayesian inference, with a focus on developing hardware-specialised methods, 
+My research interests lie in the field of computational Bayesian inference, with a focus on developing hardware-specialised methods, 
 for example, designing sampling algorithms that explicitly take advantage of the parallelism of modern GPUs rather than implicitly. 
-Other interests lie in embarassing (or not) parallelisation of statistical algorithms, statistical efficiency in state-space models, gradient-based inference, coupling methodologies, and optimal transport.
+Other interests lie in embarrassing (or not) parallelisation of statistical algorithms, statistical efficiency in state-space models, gradient-based inference, coupling methodologies, and optimal transport.
 
 
 #### Publications
@@ -38,7 +38,9 @@ F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2021): *Parallel Iterated
 
 #### Talks
 
-**A. Corenflos**
+**A. Corenflos** (2023): *Debiasing PDMP samplers.*
+41st Finnish Summer School on Probability and Statistics
+
 **A. Corenflos** (2023): *Auxiliary MCMC and particle Gibbs samplers for parallelisable inference in latent dynamical systems.* 
 Bayes comp', session on state-space modelling and particle filtering [link](https://bayescomp2023.com/programme)
 
