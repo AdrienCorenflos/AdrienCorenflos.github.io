@@ -24,6 +24,8 @@ F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2022): *Parallel square-r
 
 ##### Published/Accepted papers
 
+**A. Corenflos**, H. Abdulsamad (2023): *Variational Gaussian filtering via Wasserstein gradient flows* EUSIPCO 2023 (accepted) [arxiv](https://arxiv.org/abs/2303.06398)
+
 **A. Corenflos**, N. Chopin, S. Särkkä (2023): *De-Sequentialized Monte Carlo: a parallel-in-time particle smoother* JMLR **23**(283). [open access](https://www.jmlr.org/papers/v23/22-0140.html)
 
 **A. Corenflos**, Z. Zhao, S. Särkkä (2022): *Temporal Gaussian Process Regression in Logarithmic Time.* FUSION. [official](https://ieeexplore.ieee.org/abstract/document/9841306), [arXiv](https://arxiv.org/abs/2102.09964)
@@ -36,6 +38,7 @@ F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2021): *Parallel Iterated
 
 #### Talks
 
+**A. Corenflos**
 **A. Corenflos** (2023): *Auxiliary MCMC and particle Gibbs samplers for parallelisable inference in latent dynamical systems.* 
 Bayes comp', session on state-space modelling and particle filtering [link](https://bayescomp2023.com/programme)
 
