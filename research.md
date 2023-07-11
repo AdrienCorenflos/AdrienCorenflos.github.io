@@ -14,11 +14,13 @@ Other interests lie in embarassing parallelisation of statistical algorithms, st
 Below is a list of my publications, and a list of my working papers. 
 ##### Working papers
 
-**A. Corenflos**, S. Särkkä (2023): *Auxiliary MCMC and particle Gibbs samplers for parallelisable inference in latent dynamical systems.* [arXiv](https://arxiv.org/abs/2303.00301)
+**A. Corenflos**, M. Sutton, N. Chopin (2023): *Debiasing Piecewise Deterministic Markov Process samplers using couplings.* [work in progress, arXiv](https://arxiv.org/abs/2306.15422)
 
-**A. Corenflos**, S. Särkkä (2022): *The Coupled Rejection Sampler.* [arXiv](https://arxiv.org/abs/2201.09585)
+**A. Corenflos**, S. Särkkä (2023): *Auxiliary MCMC and particle Gibbs samplers for parallelisable inference in latent dynamical systems.* [under review, arXiv](https://arxiv.org/abs/2303.00301)
 
-F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2022): *Parallel square-root statistical linear regression for inference in nonlinear state space models.* [arXiv](https://arxiv.org/abs/2207.00426)
+**A. Corenflos**, S. Särkkä (2022): *The Coupled Rejection Sampler.* [modified version under review, arXiv](https://arxiv.org/abs/2201.09585)
+
+F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2022): *Parallel square-root statistical linear regression for inference in nonlinear state space models.* [under review, arXiv](https://arxiv.org/abs/2207.00426)
 
 ##### Published/Accepted papers
 
