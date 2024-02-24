@@ -14,17 +14,27 @@ Other interests lie in embarrassing (or not) parallelisation of statistical algo
 Below is a list of my publications, and a list of my working papers. 
 ##### Working papers
 
+A. Cabezas, **A. Corenflos**, J. Lao, R. Louf et al. (2024): *BlackJAX: Composable Bayesian inference in JAX.* [arXiv](https://arxiv.org/abs/2402.10797)
+
+S. Iqbal, **A. Corenflos**, S. Särkkä, H. Abdulsamad (2024): *Nesting Particle Filters for Experimental Design in Dynamical Systems.* [under review, arXiv](https://arxiv.org/abs/2402.07868)
+
+**A. Corenflos**, A. Finke (2024): *Particle-MALA and Particle-mGRAD: Gradient-based MCMC methods for high-dimensional state-space models.* [under review, arXiv](https://arxiv.org/abs/2401.14868)
+
+Y. Le Fay, S. Särkkä, **A. Corenflos** (2023): *Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics.* [under review, arXiv](https://arxiv.org/abs/2401.03338)
+
+N. Bosch, **A. Corenflos**, F. Yaghoobi, F. Tronarp, P. Hennig, S. Särkkä (2023): *Parallel-in-Time Probabilistic Numerical ODE Solvers.* [under review, arXiv](https://arxiv.org/abs/2310.01145)
+
+H. Abdulsamad, S. Iqbal, **A. Corenflos**, S. Särkkä,  (2024): *Risk-Sensitive Stochastic Optimal Control as Rao-Blackwellized Markovian Score Climbing.* [under review, arXiv](https://arxiv.org/abs/2312.14000)
+
 **A. Corenflos**, M. Sutton, N. Chopin (2023): *Debiasing Piecewise Deterministic Markov Process samplers using couplings.* [work in progress, arXiv](https://arxiv.org/abs/2306.15422)
 
 **A. Corenflos**, S. Särkkä (2023): *Auxiliary MCMC and particle Gibbs samplers for parallelisable inference in latent dynamical systems.* [under review, arXiv](https://arxiv.org/abs/2303.00301)
-
-**A. Corenflos**, S. Särkkä (2022): *The Coupled Rejection Sampler.* [modified version under review, arXiv](https://arxiv.org/abs/2201.09585)
 
 F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2022): *Parallel square-root statistical linear regression for inference in nonlinear state space models.* [under review, arXiv](https://arxiv.org/abs/2207.00426)
 
 ##### Published/Accepted papers
 
-**A. Corenflos**, H. Abdulsamad (2023): *Variational Gaussian filtering via Wasserstein gradient flows* EUSIPCO 2023 (accepted) [arxiv](https://arxiv.org/abs/2303.06398)
+**A. Corenflos**, H. Abdulsamad (2023): *Variational Gaussian filtering via Wasserstein gradient flows* EUSIPCO 2023 [arxiv](https://arxiv.org/abs/2303.06398)
 
 **A. Corenflos**, N. Chopin, S. Särkkä (2023): *De-Sequentialized Monte Carlo: a parallel-in-time particle smoother* JMLR **23**(283). [open access](https://www.jmlr.org/papers/v23/22-0140.html)
 
@@ -56,3 +66,10 @@ Seminar on Advances in Probabilistic Machine Learning, Aalto Universtiy & ELLIS 
 
 #### Posters
 **A. Corenflos** (2021): *Temporal Gaussian Process Regression in Logarithmic Time.* Finnish AI Day [link](https://www.espoo.fi/en/ai-finland-ai-day-2021-reboot-ai/program#hosted-on-site-poster-session-600pm-700pm-25346)
+
+
+##### Stashed papers
+If you see something you like, have ideas, or would like to discuss, feel free to contact me.
+I'd be happy to reopen these projects if there is interest.
+
+**A. Corenflos**, S. Särkkä (2022): *The Coupled Rejection Sampler.* [arXiv](https://arxiv.org/abs/2201.09585)

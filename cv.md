@@ -8,7 +8,7 @@ Education
 ======
 * Mathematics, École Normale Supérieure (Lyon), 2012-2015
 * Probabilty and Finance Masters, Université Pierre et Marie Curie & École Polytechnique 2014-2015
-* Ph.D in Electrical Engineering, Aalto, 2024 (expected)
+* Ph.D. in Electrical Engineering, Aalto, 2024 (expected)
 
 Work experience
 ======
@@ -25,5 +25,5 @@ Teaching
   
 Service
 ======
-* Reviewer for ICML, NeurIPS, AISTATS (2020-current).
+* Reviewed for ICML, NeurIPS, AISTATS, etc (2020-current).
 * Reviewed for Statistica Sinica, Statistics and Computing, Signal Processing.
