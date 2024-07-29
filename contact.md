@@ -10,6 +10,7 @@ though, please refer to the list below:
 
 - Academic chatter (paper clarifications, request for reviews, "why did you not cite me?"): 
   adrien[dot]corenflos[at]aalto[dot]fi
+  adrien[dot]corenflos[at]warwick.ac.uk
 
 - Software (Bug, question, comment, critique, hate, frustration): 
   Please start by opening an issue in the relevant repository! 

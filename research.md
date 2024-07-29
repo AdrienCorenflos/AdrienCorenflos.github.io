@@ -61,11 +61,14 @@ Workshop on Computational methods for unifying multiple statistical analyses [li
 The Royal Statistical Society's Young Statisticians Meeting 2022 - online, mathematical statistics session [link](https://sites.google.com/view/ysm-2022/schedule)
 
 **A. Corenflos** (2022): *The Coupled Rejection Sampler.* 
-Seminar on Advances in Probabilistic Machine Learning, Aalto Universtiy & ELLIS Helsinki, Finland [Link](https://fcai.fi/calendar/2022/3/17/bayesian-deep-learning-with-linearised-neural-networks-zkwjh)
+Seminar on Advances in Probabilistic Machine Learning, Aalto Universtiy & ELLIS Helsinki, Finland [link](https://fcai.fi/calendar/2022/3/17/bayesian-deep-learning-with-linearised-neural-networks-zkwjh)
 
 
 #### Posters
 **A. Corenflos** (2021): *Temporal Gaussian Process Regression in Logarithmic Time.* Finnish AI Day [link](https://www.espoo.fi/en/ai-finland-ai-day-2021-reboot-ai/program#hosted-on-site-poster-session-600pm-700pm-25346)
+
+#### PhD thesis (not yet official)
+**A. Corenflos** (2024): *Computationall efficient statistical inference in Markovian models* [link](phd_thesis.pdf)
 
 
 ##### Stashed papers
