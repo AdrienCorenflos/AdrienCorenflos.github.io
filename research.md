@@ -67,8 +67,8 @@ Seminar on Advances in Probabilistic Machine Learning, Aalto Universtiy & ELLIS 
 #### Posters
 **A. Corenflos** (2021): *Temporal Gaussian Process Regression in Logarithmic Time.* Finnish AI Day [link](https://www.espoo.fi/en/ai-finland-ai-day-2021-reboot-ai/program#hosted-on-site-poster-session-600pm-700pm-25346)
 
-#### PhD thesis (not yet official)
-**A. Corenflos** (2024): *Computationall efficient statistical inference in Markovian models* [link](phd_thesis.pdf)
+#### PhD thesis (now official!)
+**A. Corenflos** (2024): *Computationally efficient statistical inference in Markovian models* [link](phd_thesis.pdf)
 
 
 ##### Stashed papers
