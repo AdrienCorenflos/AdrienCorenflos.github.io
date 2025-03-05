@@ -13,14 +13,13 @@ If this is not what you expected, don't leave just yet, I don't have cookies,
 but I have a short [CV](/cv/) and a list of [publications](/research/).
 
 #### About me
-In case you are still here reading, here's a few facts about me. <s>I am a Ph.D. student at Aalto University, working in [Prof. Simo Särkkä's](https://users.aalto.fi/~ssarkka/) group, in Finland. I will be defending my thesis on August 26th, 2024.</s> This IS DONE and i received my diploma!
+In case you are still here reading, here's a few facts about me. <s>I am a Ph.D. student at Aalto University, working in [Prof. Simo Särkkä's](https://users.aalto.fi/~ssarkka/) group, in Finland. I will be defending my thesis on August 26th, 2024.</s> This IS DONE and I received my diploma!
 
-
-
-I currently work as a postdoctoral researcher at Warwick University, under Prof. Gareth Roberts, as part of the [OCEAN](https://oceanerc.com/) project.
+I currently work as a postdoctoral researcher at Warwick University, under Prof. Gareth Roberts and Prof. Adam Johansen, as part of the [OCEAN](https://oceanerc.com/) project.
 Prior to this I was working as a quantitative researcher for J.P. Morgan in London, and focused mostly on statistical modelling of corporate credit markets (essentially modeling of online auctions).
 
-[Research-wise](/research/) I like all things sampling, all things optimal transport, and all things parallel. I do find the smell of a GPU burning through matrix multiplications weirdly comforting, and typically try finding new principled ways to indulge in this.
+[Research-wise](/research/) I like all things sampling, all things optimal transport, all things parallel, all things state-space models. 
+I do find the smell of a GPU burning through matrix multiplications weirdly comforting, and typically try finding new principled ways to indulge in this.
 
 If you want to contact me for a reason or another, see the [contact page](/contact/).
 

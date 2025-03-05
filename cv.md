@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: CV
+title: CV (short)
 ---
 
 
@@ -8,7 +8,7 @@ Education
 ======
 * Mathematics, École Normale Supérieure (Lyon), 2012-2015
 * Probabilty and Finance Masters, Université Pierre et Marie Curie & École Polytechnique 2014-2015
-* Ph.D. in Electrical Engineering, Aalto, 2024 (expected)
+* Ph.D. in Electrical Engineering, Aalto, 2024
 
 Work experience
 ======
@@ -26,4 +26,4 @@ Teaching
 Service
 ======
 * Reviewed for ICML, NeurIPS, AISTATS, etc (2020-current).
-* Reviewed for Statistica Sinica, Statistics and Computing, Signal Processing.
+* Reviewed for Statistica Sinica, Statistics and Computing, Signal Processing, Journal of the Royal Statistical Society (Series B), Philosophical Transactions A, Electronic Journal of Statistics, various IEEE journals and conferences.

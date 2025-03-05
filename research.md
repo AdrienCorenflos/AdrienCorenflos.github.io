@@ -7,7 +7,8 @@ permalink: /research/
 
 My research interests lie in the field of computational Bayesian inference, with a focus on developing hardware-specialised methods, 
 for example, designing sampling algorithms that explicitly take advantage of the parallelism of modern GPUs rather than implicitly. 
-Other interests lie in embarrassing (or not) parallelisation of statistical algorithms, statistical efficiency in state-space models, gradient-based inference, coupling methodologies, and optimal transport.
+I have recently taken a liking at statistical handling of diffusion models, which will likely take up a lot of my time in the coming years.
+Other interests lie in embarrassing (or not) parallelisation of statistical algorithms, statistical efficiency in state-space models, gradient-based MCMC, coupling methodologies, and optimal transport.
 
 
 #### Publications
@@ -16,23 +17,26 @@ Below is a list of my publications, and a list of my working papers.
 
 A. Cabezas, **A. Corenflos**, J. Lao, R. Louf et al. (2024): *BlackJAX: Composable Bayesian inference in JAX.* [arXiv](https://arxiv.org/abs/2402.10797)
 
-S. Iqbal, **A. Corenflos**, S. Särkkä, H. Abdulsamad (2024): *Nesting Particle Filters for Experimental Design in Dynamical Systems.* [under review, arXiv](https://arxiv.org/abs/2402.07868)
+**A. Corenflos**, A. Finke (2024): *Particle-MALA and Particle-mGRAD: Gradient-based MCMC methods for high-dimensional state-space models.* [arXiv](https://arxiv.org/abs/2401.14868)
 
-**A. Corenflos**, A. Finke (2024): *Particle-MALA and Particle-mGRAD: Gradient-based MCMC methods for high-dimensional state-space models.* [under review, arXiv](https://arxiv.org/abs/2401.14868)
+H. Abdulsamad, S. Iqbal, **A. Corenflos**, S. Särkkä (2024): *Risk-Sensitive Stochastic Optimal Control as Rao-Blackwellized Markovian Score Climbing.* [under review, arXiv](https://arxiv.org/abs/2312.14000)
 
-Y. Le Fay, S. Särkkä, **A. Corenflos** (2023): *Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics.* [under review, arXiv](https://arxiv.org/abs/2401.03338)
+**A. Corenflos**, M. Sutton, N. Chopin (2023): *Debiasing Piecewise Deterministic Markov Process samplers using couplings.* [under review, arXiv](https://arxiv.org/abs/2306.15422)
 
-N. Bosch, **A. Corenflos**, F. Yaghoobi, F. Tronarp, P. Hennig, S. Särkkä (2023): *Parallel-in-Time Probabilistic Numerical ODE Solvers.* [under review, arXiv](https://arxiv.org/abs/2310.01145)
-
-H. Abdulsamad, S. Iqbal, **A. Corenflos**, S. Särkkä,  (2024): *Risk-Sensitive Stochastic Optimal Control as Rao-Blackwellized Markovian Score Climbing.* [under review, arXiv](https://arxiv.org/abs/2312.14000)
-
-**A. Corenflos**, M. Sutton, N. Chopin (2023): *Debiasing Piecewise Deterministic Markov Process samplers using couplings.* [work in progress, arXiv](https://arxiv.org/abs/2306.15422)
-
-**A. Corenflos**, S. Särkkä (2023): *Auxiliary MCMC and particle Gibbs samplers for parallelisable inference in latent dynamical systems.* [under review, arXiv](https://arxiv.org/abs/2303.00301)
-
-F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2022): *Parallel square-root statistical linear regression for inference in nonlinear state space models.* [under review, arXiv](https://arxiv.org/abs/2207.00426)
 
 ##### Published/Accepted papers
+
+**A. Corenflos**, S. Särkkä (2025): *Auxiliary MCMC and particle Gibbs samplers for parallelisable inference in latent dynamical systems.* Electronic Journal of Statistics [arXiv](https://arxiv.org/abs/2303.00301)
+
+Y. Le Fay, S. Särkkä, **A. Corenflos** (2025): *Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics.* Bayesian Analysis [arXiv](https://arxiv.org/abs/2401.03338)
+
+F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2025): *Parallel square-root statistical linear regression for inference in nonlinear state space models.* SIAM Journal on Scientific Computing [arXiv](https://arxiv.org/abs/2207.00426)
+
+**A. Corenflos**, Z. Zhao, S. Särkkä, J. Sjölund, T. B. Schön (2025): *Conditioning diffusion models by explicit forward-backward bridging* AISTATS [arxiv](https://arxiv.org/abs/2405.13794)
+
+S. Iqbal, **A. Corenflos**, S. Särkkä, H. Abdulsamad (2024): *Nesting Particle Filters for Experimental Design in Dynamical Systems.*  ICML [open access](https://proceedings.mlr.press/v235/iqbal24a.html)
+
+N. Bosch, **A. Corenflos**, F. Yaghoobi, F. Tronarp, P. Hennig, S. Särkkä (2023): *Parallel-in-Time Probabilistic Numerical ODE Solvers.* JMLR [open access](https://jmlr.org/papers/v25/23-1261.html)
 
 **A. Corenflos**, H. Abdulsamad (2023): *Variational Gaussian filtering via Wasserstein gradient flows* EUSIPCO 2023 [arxiv](https://arxiv.org/abs/2303.06398)
 
