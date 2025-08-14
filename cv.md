@@ -12,6 +12,8 @@ Education
 
 Work experience
 ======
+* 2025-current: Lecturer, University of Warwick
+* 2024-2025: Postdoctoral Researcher, University of Warwick
 * 2015-2020: Financial Engineer/Quantitative Researcher
   * Société Générale
   * J.P. Morgan
