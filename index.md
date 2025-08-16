@@ -13,7 +13,7 @@ If this is not what you expected, don't leave just yet, I don't have cookies,
 but I have a short [CV](/cv/) and a list of [publications](/research/).
 
 #### About me
-I am a Lecturer at the University of Warwick, starting September 2025.
+I am a Assistant Professor (Lecturer) at the Department of Statistics of the University of Warwick, starting September 2025.
 
 I did my PhD thesis in [Prof. Simo Särkkä's](https://users.aalto.fi/~ssarkka/) group, in Finland. I defended my [thesis](phd_thesis.pdf) on August 26th, 2024. It was awarded the best thesis award by Aalto University.
 
