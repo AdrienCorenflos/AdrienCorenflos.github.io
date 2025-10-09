@@ -11,6 +11,7 @@ redirect_from:
 Hello visitor, you have safely landed on the personal page of Adrien Corenflos (me). 
 If this is not what you expected, don't leave just yet, I don't have cookies, 
 but I have a short [CV](/cv/) and a list of [publications](/research/).
+I have also uploaded some presentations [slides](/slides/).
 
 #### About me
 I am a Assistant Professor (Lecturer) at the Department of Statistics of the University of Warwick, starting September 2025.
