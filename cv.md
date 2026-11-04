@@ -7,7 +7,7 @@ title: CV (short)
 Education
 ======
 * Mathematics, École Normale Supérieure (Lyon), 2012-2015
-* Probabilty and Finance Masters, Université Pierre et Marie Curie & École Polytechnique 2014-2015
+* Probability and Finance Masters, Université Pierre et Marie Curie & École Polytechnique 2014-2015
 * Ph.D. in Electrical Engineering, Aalto, 2024
 
 Work experience
@@ -20,6 +20,7 @@ Work experience
   
 Teaching
 ======
+* 2025-current: Module leader for "Bayesian Forecasting and Intervention" (ST337) at the University of Warwick
 * 2022-current: Teaching assistant for the course "Bayesian Filtering and Smoothing" at Aalto University
   * Move the course from Matlab to Python
   * In charge of the exercises sessions

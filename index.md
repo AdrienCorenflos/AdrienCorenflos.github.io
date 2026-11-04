@@ -14,11 +14,11 @@ but I have a short [CV](/cv/) and a list of [publications](/research/).
 I have also uploaded some presentations [slides](/slides/).
 
 #### About me
-I am a Assistant Professor (Lecturer) at the Department of Statistics of the University of Warwick, starting September 2025.
+I am an Assistant Professor (Lecturer) at the Department of Statistics of the University of Warwick, since September 2025.
 
 I did my PhD thesis in [Prof. Simo Särkkä's](https://users.aalto.fi/~ssarkka/) group, in Finland. I defended my [thesis](phd_thesis.pdf) on August 26th, 2024. It was awarded the best thesis award by Aalto University.
 
-After this, I have been working as a postdoctoral researcher at Warwick University, with Prof. Gareth Roberts and Prof. Adam Johansen, as part of the [OCEAN](https://oceanerc.com/) project.
+After this, I worked as a postdoctoral researcher at Warwick University, with Prof. Gareth Roberts and Prof. Adam Johansen, as part of the [OCEAN](https://oceanerc.com/) project.
 
 Prior to this academic career (i.e., between 2015-2020) I was working as a quantitative researcher for J.P. Morgan in London and prior to this in financial engineering at Société Générale, and focused mostly on statistical modelling of corporate credit markets (essentially modeling of online auctions).
 

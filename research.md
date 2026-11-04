@@ -15,28 +15,40 @@ Other interests lie in embarrassing (or not) parallelisation of statistical algo
 Below is a list of my publications, and a list of my working papers. 
 ##### Working papers
 
+**A. Corenflos** (2026): *Metropolized backward sampling for conditional sequential Monte Carlo.* [arXiv](https://arxiv.org/abs/2610.38753), [Lean formalization](https://adriencorenflos.github.io/formalization/metropolized-CSMC/)
+
+R. Caprio, **A. Corenflos**, S. Power (2026): *Wasserstein Contraction of Coordinate Ascent Variational Inference.* [arXiv](https://arxiv.org/abs/2605.30253)
+
+**A. Corenflos** (2026): *Robust Automatic Differentiation of Square-Root Kalman Filters via Gramian Differentials.* [arXiv](https://arxiv.org/abs/2603.13559)
+
+**A. Corenflos**, H.-D. Dau (2025): *A coupling-based approach to f-divergences diagnostics for Markov chain Monte Carlo.* [arXiv](https://arxiv.org/abs/2510.07559)
+
+**A. Corenflos** (2025): *Particle Gibbs without the Gibbs bit.* [arXiv](https://arxiv.org/abs/2505.04611)
+
 A. Cabezas, **A. Corenflos**, J. Lao, R. Louf et al. (2024): *BlackJAX: Composable Bayesian inference in JAX.* [arXiv](https://arxiv.org/abs/2402.10797)
 
 **A. Corenflos**, A. Finke (2024): *Particle-MALA and Particle-mGRAD: Gradient-based MCMC methods for high-dimensional state-space models.* [arXiv](https://arxiv.org/abs/2401.14868)
 
 H. Abdulsamad, S. Iqbal, **A. Corenflos**, S. Särkkä (2024): *Risk-Sensitive Stochastic Optimal Control as Rao-Blackwellized Markovian Score Climbing.* [under review, arXiv](https://arxiv.org/abs/2312.14000)
 
-**A. Corenflos**, M. Sutton, N. Chopin (2023): *Debiasing Piecewise Deterministic Markov Process samplers using couplings.* [under review, arXiv](https://arxiv.org/abs/2306.15422)
-
 
 ##### Published/Accepted papers
 
-**A. Corenflos**, S. Särkkä (2025): *Auxiliary MCMC and particle Gibbs samplers for parallelisable inference in latent dynamical systems.* Electronic Journal of Statistics [arXiv](https://arxiv.org/abs/2303.00301)
+H. Abdulsamad, S. Iqbal, C. A. Naesseth, T. Matsubara, **A. Corenflos** (2026): *Maximin Robust Bayesian Experimental Design.* NeurIPS [arXiv](https://arxiv.org/abs/2603.14094)
 
-Y. Le Fay, S. Särkkä, **A. Corenflos** (2025): *Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics.* Bayesian Analysis [arXiv](https://arxiv.org/abs/2401.03338)
+**A. Corenflos**, M. Sutton, N. Chopin (2025): *Debiasing Piecewise Deterministic Markov Process samplers using couplings.* Scandinavian Journal of Statistics **52**(4). [official](https://doi.org/10.1111/sjos.70015), [arXiv](https://arxiv.org/abs/2306.15422)
 
-F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2025): *Parallel square-root statistical linear regression for inference in nonlinear state space models.* SIAM Journal on Scientific Computing [arXiv](https://arxiv.org/abs/2207.00426)
+**A. Corenflos**, S. Särkkä (2025): *Auxiliary MCMC samplers for parallelisable inference in high-dimensional latent dynamical systems.* Electronic Journal of Statistics **19**(1). [open access](https://doi.org/10.1214/25-EJS2363), [arXiv](https://arxiv.org/abs/2303.00301)
 
-**A. Corenflos**, Z. Zhao, S. Särkkä, J. Sjölund, T. B. Schön (2025): *Conditioning diffusion models by explicit forward-backward bridging* AISTATS [arxiv](https://arxiv.org/abs/2405.13794)
+Y. Le Fay, S. Särkkä, **A. Corenflos** (2025): *Modelling pathwise uncertainty of Stochastic Differential Equations samplers via Probabilistic Numerics.* Bayesian Analysis **21**(3). [open access](https://doi.org/10.1214/25-BA1522), [arXiv](https://arxiv.org/abs/2401.03338)
+
+F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2025): *Parallel square-root statistical linear regression for inference in nonlinear state space models.* SIAM Journal on Scientific Computing **47**(2). [official](https://doi.org/10.1137/23M156121X), [arXiv](https://arxiv.org/abs/2207.00426)
+
+**A. Corenflos**, Z. Zhao, S. Särkkä, J. Sjölund, T. B. Schön (2025): *Conditioning diffusion models by explicit forward-backward bridging* AISTATS [open access](https://proceedings.mlr.press/v258/corenflos25a.html), [arxiv](https://arxiv.org/abs/2405.13794)
 
 S. Iqbal, **A. Corenflos**, S. Särkkä, H. Abdulsamad (2024): *Nesting Particle Filters for Experimental Design in Dynamical Systems.*  ICML [open access](https://proceedings.mlr.press/v235/iqbal24a.html)
 
-N. Bosch, **A. Corenflos**, F. Yaghoobi, F. Tronarp, P. Hennig, S. Särkkä (2023): *Parallel-in-Time Probabilistic Numerical ODE Solvers.* JMLR [open access](https://jmlr.org/papers/v25/23-1261.html)
+N. Bosch, **A. Corenflos**, F. Yaghoobi, F. Tronarp, P. Hennig, S. Särkkä (2023): *Parallel-in-Time Probabilistic Numerical ODE Solvers.* JMLR **25**(206). [open access](https://jmlr.org/papers/v25/23-1261.html)
 
 **A. Corenflos**, H. Abdulsamad (2023): *Variational Gaussian filtering via Wasserstein gradient flows* EUSIPCO 2023 [arxiv](https://arxiv.org/abs/2303.06398)
 
@@ -48,7 +60,7 @@ Rémi Flamary, Nicolas Courty, Alexandre Gramfort, et al.: "POT: Python Optimal 
 
 F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2021): *Parallel Iterated Extended and Sigma-point Kalman Smoothers.* ICASSP. [official](https://ieeexplore.ieee.org/abstract/document/9413364), [arXiv](https://arxiv.org/abs/2102.00514)
 
-**A. Corenflos**, J. Thornton (joint first authorship), G. Degligiannidis, A. Doucet (2021): *Differentiable Particle Filtering via Entropy-Regularized Optimal Transport* ICML. [open access](https://proceedings.mlr.press/v139/corenflos21a.html)
+**A. Corenflos**, J. Thornton (joint first authorship), G. Deligiannidis, A. Doucet (2021): *Differentiable Particle Filtering via Entropy-Regularized Optimal Transport* ICML. [open access](https://proceedings.mlr.press/v139/corenflos21a.html)
 
 #### Talks
 
@@ -65,11 +77,11 @@ Workshop on Computational methods for unifying multiple statistical analyses [li
 The Royal Statistical Society's Young Statisticians Meeting 2022 - online, mathematical statistics session [link](https://sites.google.com/view/ysm-2022/schedule)
 
 **A. Corenflos** (2022): *The Coupled Rejection Sampler.* 
-Seminar on Advances in Probabilistic Machine Learning, Aalto Universtiy & ELLIS Helsinki, Finland [link](https://fcai.fi/calendar/2022/3/17/bayesian-deep-learning-with-linearised-neural-networks-zkwjh)
+Seminar on Advances in Probabilistic Machine Learning, Aalto University & ELLIS Helsinki, Finland [link](https://fcai.fi/calendar/2022/3/17/bayesian-deep-learning-with-linearised-neural-networks-zkwjh)
 
 
 #### Posters
-**A. Corenflos** (2021): *Temporal Gaussian Process Regression in Logarithmic Time.* Finnish AI Day [link](https://www.espoo.fi/en/ai-finland-ai-day-2021-reboot-ai/program#hosted-on-site-poster-session-600pm-700pm-25346)
+**A. Corenflos** (2021): *Temporal Gaussian Process Regression in Logarithmic Time.* Finnish AI Day [link](https://web.archive.org/web/20211103023137/https://www.espoo.fi/en/ai-finland-ai-day-2021-reboot-ai/program#hosted-on-site-poster-session-600pm-700pm-25346)
 
 #### PhD thesis (now official!)
 **A. Corenflos** (2024): *Computationally efficient statistical inference in Markovian models* [link](phd_thesis.pdf)
