@@ -64,6 +64,24 @@ F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2021): *Parallel Iterated
 
 #### Talks
 
+**A. Corenflos** (2026): *Wasserstein Contraction of Coordinate Ascent Variational Inference.*
+Seminar, Nanyang Technological University, Singapore
+
+**A. Corenflos** (2026): *Maximin Robust Bayesian Experimental Design.*
+Seminar, King's College London, UK [slides](https://adriencorenflos.github.io/robust_experimental_design_pres/)
+
+**A. Corenflos** (2026): *Computing importance weights for Markov chain Monte Carlo via couplings: an application to f-divergence diagnostics.*
+Workshop on Non-Equilibrium Sampling: Diffusions, Flows, Particles, Newcastle University, UK [link](https://sites.google.com/view/newcastle-non-equilibrium-samp/home), [slides](https://adriencorenflos.github.io/diagnostics-pres/)
+
+**A. Corenflos** (2026): *Maximin Robust Bayesian Experimental Design.*
+Manchester Workshop on Bayesian Experimental Design, University of Manchester, UK [link](https://sites.google.com/view/bayesianexperimentaldesign), [slides](https://adriencorenflos.github.io/robust_experimental_design_pres/)
+
+**A. Corenflos** (2026): *Maximin Robust Bayesian Experimental Design.*
+Seminar, University of Bergamo, Italy [slides](https://adriencorenflos.github.io/robust_experimental_design_pres/)
+
+**A. Corenflos** (2026): *Computing importance weights for Markov chain Monte Carlo via couplings: an application to f-divergence diagnostics.*
+London Meeting on Computational Statistics, UCL, UK [link](https://fsml-ucl.github.io/CSMLworkshop2026/), [slides](https://adriencorenflos.github.io/diagnostics-pres/)
+
 **A. Corenflos** (2023): *Debiasing PDMP samplers.*
 41st Finnish Summer School on Probability and Statistics
 
