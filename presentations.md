@@ -3,7 +3,7 @@ permalink: /slides/
 title: Presentations
 ---
 
-- [Local geometric convergence of coordinate ascent variational inference](https://adriencorenflos.github.io/cavi-pres/)
+- [Convergence of CAVI](https://adriencorenflos.github.io/cavi-pres/)
 - [Coupling-based MCMC diagnostics](https://adriencorenflos.github.io/diagnostics-pres/)
 - [Robust Bayesian Experimental Design](https://adriencorenflos.github.io/robust_experimental_design_pres/)
 - [Programmatic State-Space Modelling](https://adriencorenflos.github.io/ssm-ppl-pres/)
