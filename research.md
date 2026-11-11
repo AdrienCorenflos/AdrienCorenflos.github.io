@@ -65,7 +65,7 @@ F. Yaghoobi, **A. Corenflos**, S. Hassan, S. Särkkä (2021): *Parallel Iterated
 #### Talks
 
 **A. Corenflos** (2026): *Wasserstein Contraction of Coordinate Ascent Variational Inference.*
-Seminar, Nanyang Technological University, Singapore
+Seminar, Nanyang Technological University, Singapore [slides](https://adriencorenflos.github.io/cavi-pres/)
 
 **A. Corenflos** (2026): *Maximin Robust Bayesian Experimental Design.*
 Seminar, King's College London, UK [slides](https://adriencorenflos.github.io/robust_experimental_design_pres/)
